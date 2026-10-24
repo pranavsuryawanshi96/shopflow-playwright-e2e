@@ -237,6 +237,14 @@ import { SEARCH_TERMS } from "../utils/TestData/products";
 
 ---
 
+## 📜 Copyright and Usage
+
+This project is created and maintained by **Pranav Patil** as part of a personal automation testing portfolio.
+
+You are welcome to refer to this repository for learning and educational purposes. However, please do not copy, republish, or claim this project as your own work without proper credit.
+
+If you use any part of this framework as a reference, kindly provide appropriate attribution to the original repository.
+
 ## 👨‍💻 Author
 
 **Pranav Suryawanshi**
